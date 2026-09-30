@@ -1,9 +1,6 @@
 # top.git.white
 Это репозиторий
-Я не джулия
-Это релиз ветка
-огогошечк
-fgddddddddddddddddddddddddddddddd
+dd
 
 
 gdfgdfdgf
